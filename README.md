@@ -1,5 +1,10 @@
 ## Sorting alogorithms
+Insetion base
+* Insertion Sort
 
+Swapping base
+* Bubble Sort
+* Quicksort
 
 ## Example input
 ```
