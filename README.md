@@ -1,10 +1,11 @@
 ## Sorting alogorithms
 Insetion base
-* Insertion Sort
+* [Insertion Sort](./insertion_sort.cpp)
+* [Binary Insertion Sort](./insertion_bs_sort.cpp)
 
 Swapping base
-* Bubble Sort
-* Quicksort
+* [Bubble Sort](./bubble_sort.cpp)
+* [Quicksort](./quicksort.cpp)
 
 ## Example input
 ```
