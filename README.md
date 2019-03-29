@@ -6,6 +6,7 @@ Insetion base
 Swapping base
 * [Bubble Sort](./bubble_sort.cpp)
 * [Quicksort](./quicksort.cpp)
+* [Merge Sort](./mergesort.cpp)
 
 ## Example input
 ```
